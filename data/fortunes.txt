@@ -1,0 +1,144 @@
+Why do programmers prefer dark mode? Because light attracts bugs!
+Why did the programmer quit his job? Because he didn't get arrays.
+How many programmers does it take to change a light bulb? None, that's a hardware problem.
+Why do Java developers wear glasses? Because they don't C#.
+Why did the developer go broke? He used up all his cache.
+How do you tell a software developer from a hardware developer? The software developer wears glasses.
+'It works on my machine' will be inscribed on many a programmer's tombstone.
+Why did the programmer get stuck in the shower? The instructions said 'lather, rinse, repeat.'
+Why do programmers always get Halloween and Christmas mixed up? Because Oct 31 equals Dec 25.
+How many programmers does it take to change a light bulb? 1 to change it, and 27 more to discuss how much better the old one was.
+Why is keyboard documentation so hard to read? Because of all the abbreviations and crap.
+Why did the programmer refuse to go to the beach? He was afraid of the C++ waves.
+A SQL query walks into a bar, walks up to two tables and asks... 'Can I join you?'
+Why do programmers make bad lovers? Because they write 'God... = new God();' but they only create one instance.
+I would tell you a UDP joke, but you might not get it.
+Why do programmers prefer to work at night? Because they're debugging their life choices.
+Debugging: Removing the needles from the haystack.
+99 little bugs in the code, 99 little bugs... take one down, patch it around... 127 little bugs in the code.
+It's not a bug, it's an undocumented feature.
+Real programmers count from 0.
+Have you tried turning it off and on again? I'm not a programmer, and that's my solution.
+To understand what recursion is, you must first understand what recursion is.
+Why did the developer go to jail? Because he used the internet to look up 'how to commit a crime.'
+I would love to change the world, but they won't give me the source code.
+The best thing about a Boolean is even if you are wrong, you are only off by a bit.
+How many Microsoft programmers does it take to change a light bulb? None, that's a hardware problem.
+Why did the programmer always get Christmas and Halloween mixed up? Because DEC 25 = OCT 31.
+How many programmers does it take to change a light bulb? That's not funny.
+Why are assembly programmers always soaking wet? They work below C level.
+Perl: Write once, read never.
+LISP: Lots of Irritating Silly Parentheses.
+COBOL: Completely Outdated Business Oriented Language.
+BASIC: Barely Adequate Syntax, Ill-formed Code.
+The only way to learn a new programming language is by writing programs in it.
+Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live.
+A programmer is told to 'go to Hell', he dies and hears 'Go to class 1' in afterlife.
+Debugging code is like being the detective in a crime drama.
+If you need to ask Stack Overflow for help, you're not a real developer.
+Why do programmers make good partners? Because they have patience.
+The best code is no code at all.
+Adding manpower to a late software project makes it later.
+A programmer is someone who fixes things that aren't broken and breaks things that fix.
+We do these things not because they are easy, but because we thought they would be easy.
+Code review is like a murder mystery where everyone is guilty.
+Documentation is like sex: when it's good, it's very, very good. When it's bad, it's better than nothing.
+A fellow programmer told me his day in three words: 'Ctrl, Alt, Delete.'
+Why did the C programmer always carry a gun? In case he needed to kill -9.
+Computers make very fast, very accurate mistakes.
+A programmer is told to 'go to the store,' but he never returned.
+Why did the JavaScript developer go to therapy? Because he had too many issues.
+The most effective debugging tool is your rubber duck.
+I'm not anti-social, my code just needs me.
+Waking up at 5 AM is the same as 5:00 AM. The only difference is that my code compiles better.
+I don't have a life because my code consumes all my time.
+Why did the project manager go to the beach? To surf the web.
+I told my code to get a life, but then I realized it doesn't have any.
+May the force be with your code.
+A long time ago in a repository far, far away...
+I am not evil. I am just coded that way.
+Judge me by my size, do you? Hmmm?
+Help me, Stack Overflow. You're my only hope.
+These aren't the bugs you're looking for.
+Your code is not ready, young Skywalker.
+I am your debugger. Luke, I am your debugger.
+I find your lack of coffee disturbing.
+'You must unlearn what you have learned.' - Yoda to any developer learning their first language.
+Do or do not. There is no git commit.
+The code is strong with this one.
+Resistance to refactoring is futile.
+The odds of successfully debugging this code are 3,720 to 1!
+I have a very bad feeling about this pull request.
+These pretzels are making me thirsty for a bug fix.
+The answer to life, the universe, and debugging is 42.
+I think, therefore I debug.
+Houston, we have a git conflict.
+One does not simply deploy to production.
+The cake is a lie, but the bugs are real.
+The portal will remain open for 9 days... for your code to become production-ready.
+Your scientists were so preoccupied with whether or not they could, they didn't stop to think if they should refactor.
+What is thy bidding, my master? *compiles code*
+'Beware the dark side of Python.' - Yoda
+I love the smell of compiled code in the morning.
+The truth is out there... in your git logs.
+I came, I coded, I debugged.
+To boldly go where no developer has gone before.
+There's a UFO... unidentified function object in your code.
+I'm sorry Dave, I'm afraid I can't deploy that.
+Open the pod bay doors, Kubernetes.
+My logic is undeniable. My code is not.
+If you're reading this, you've been in deep debugging.
+First, we take Manhattan. Then we take Berlin. Then we debug the code.
+The robots are coming! Tell your code to hide!
+In space, no one can hear your tests fail.
+Phase 1: Steal underpants. Phase 2: ??? Phase 3: Profit from open source.
+Have you tried the classic cure: turning it off and on?
+The sysadmin screams into the void. The void does not respond.
+'Have you tried rebooting it?' - The answer to everything in IT.
+UNIX: You are not expected to understand this.
+How many system administrators does it take to change a light bulb? Three: one to change it and two to discuss how much better the old one was.
+A system administrator is a person who solves problems you don't know you have in ways you don't understand.
+Why did the sysadmin go to jail? Because he broke into the server!
+Why do sysadmins make great partners? Because they always have a backup plan.
+A sysadmin's favorite drink: Kernel panic juice.
+My code doesn't have bugs. It just has unexpected features scheduled for lazy evaluation.
+Linux: The choice of a gnu generation.
+I would tell you a UDP networking joke, but I'm not sure you'd get it.
+DNS server made a deal with the devil. Instead of giving him your soul, it gives you another IP address.
+Why did the sysadmin go fishing? He wanted to catch some Ethernet!
+Sysadmins are like firemen: everything is fine until 3 AM.
+Error: no keyboard? Press F1 to continue.
+There's no place like 127.0.0.1.
+sudo make me a sandwich.
+The Internet: where men are men, women are men, and children are FBI agents.
+Your systems are down? Have you tried forgetting and remembering again?
+I have not yet begun to debug.
+Sysadmins don't get ulcers. They give them.
+The most important sysadmin tool: a rubber duck.
+'Is it plugged in?' - More powerful than any debugging tool.
+Sysadmin: A person's job is to ensure that thousands of little errors combine into one massive catastrophe.
+In case of fire, exit building. No, wait, that's not my job. Someone else's job.
+Why do sysadmins make great DJs? Because they know how to handle requests.
+A backup a day keeps the disaster away.
+RAID is not a backup. Say it again. RAID is not a backup.
+Sysadmin's creed: I fix things so you can use them. You break things so I have to fix them again.
+The best way to accelerate a Mac is at 9.8 m/s2.
+For security reasons, this fortune is encrypted.
+Restore from backup? What backup?
+I'd tell you another deploy joke, but it's still in the pipeline.
+There are 10 types of people in the world: those who understand binary, and those who don't.
+Time flies like an arrow. Fruit flies like a banana. But sysadmins fly on Red Eye.
+Have you turned your sysadmin off and on again?
+A journey of a thousand miles begins with a single step.
+Your future is bright and full of possibilities.
+Good things come to those who wait, but better things come to those who try.
+The best time to plant a tree was 20 years ago. The second best time is now.
+Adventure awaits those with courage to seek it.
+Your kind heart brings you luck and prosperity.
+Creativity is intelligence having fun.
+Long-term success is built on the foundation of honesty and integrity.
+You are capable of achieving great things.
+The best way to predict the future is to invent it.
+Your talent will be recognized and suitably rewarded.
+Believe in yourself, and others will too.
+Success is not final, failure is not fatal: it's the courage to continue that counts.
