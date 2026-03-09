@@ -61,9 +61,13 @@ fn bench_parse_name_from_args(c: &mut Criterion) {
         b.iter(|| black_box(parse_name_from_args(["--name", "Avery"])));
     });
 
-    group.bench_with_input(BenchmarkId::new("without_name", "flags_only"), &(), |b, _| {
-        b.iter(|| black_box(parse_name_from_args(["--list", "--seed", "7"])));
-    });
+    group.bench_with_input(
+        BenchmarkId::new("without_name", "flags_only"),
+        &(),
+        |b, _| {
+            b.iter(|| black_box(parse_name_from_args(["--list", "--seed", "7"])));
+        },
+    );
 
     group.finish();
 }
