@@ -1,10 +1,12 @@
 #!/bin/bash
+ls -l
 
 # Array of machine names
 mapfile -t MACHINES < ./data/machines.txt
 
 
 # Local source file
+
 SRC_FILE="metrics.csv"
 TOTAL_FILE="all_metrics.csv"
 DATE=$(date +%Y%m%d)
