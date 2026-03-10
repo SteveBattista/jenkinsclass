@@ -1,5 +1,6 @@
 pipeline {
-    agent any
+    agent { label 'docker_runner' }
+
 
     options {
         timestamps()
